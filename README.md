@@ -1,2 +1,2 @@
 # freeCodeCamp
-my work on projects proposed on freeCodeCamp's curriculum 
+my work on projects and challenges proposed on freeCodeCamp's curriculum.
